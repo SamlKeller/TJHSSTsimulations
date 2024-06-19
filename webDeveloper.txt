@@ -1,0 +1,6 @@
+When editing this repository, you may wonder why there are no subfolders.
+It may be tempting to segment everything into subfolders and deploy it.
+However, the server on which this website is deployed has issues with non-flat directory structures,
+and so it's probably best to leave it as is.  If you think you can fix it, please do so.
+
+- Samuel Stankiewicz
