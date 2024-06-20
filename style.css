@@ -155,7 +155,7 @@ html, body {
 }
 
 #secondSection {
-    margin: 12% auto 12% auto !important;
+    margin: 550px auto 12% auto !important;
     padding-bottom: 100px;
     width: 60%;
 }
@@ -243,9 +243,15 @@ html, body {
     height: 25px;
 }
 
+#contentSectAbout {
+    background-color: white;
+    margin: 175px auto auto auto;
+    width: 80%;
+}
+
 #contentSect {
     background-color: white;
-    margin: 4% auto auto auto;
+    margin: 45px auto auto auto;
     width: 80%;
 }
 
